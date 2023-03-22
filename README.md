@@ -21,7 +21,7 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 Things I could not finish within the given hours:
 
-- Brakedown <DropDownMenu/> and <CreditCardDetails/> components into further levels so that they can be managed easily
-- Complete the test cases. I added few as <todos>
+- Brakedown `<DropDownMenu/>` and `<CreditCardDetails/>` components into further levels so that they can be managed easily
+- Complete the test cases. I added few `<todos>`
 - Make the UI design better, more resposive and accessible. 
 - Update the current DatePicker with a good design
