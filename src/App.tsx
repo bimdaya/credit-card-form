@@ -4,7 +4,7 @@ import RegisterCardForm from './RegisterCardForm'
 function App() {
   return (
     <div className="App">
-      <RegisterCardForm />
+      <RegisterCardForm firstName={'Bim'} />
     </div>
   );
 }

@@ -1,4 +1,5 @@
 import { Grid } from "@mui/material"
+import CreaditCardDetails from "./components/CreditCardDetails"
 import Heading from "./components/Heading"
 
 type UserProps = {
@@ -19,6 +20,7 @@ const RegisterCardForm = (props: UserProps) => {
                 spacing={2}
                 justifyContent="center"
                 alignItems="center">
+                <CreaditCardDetails />
             </Grid>
         </>
     )
