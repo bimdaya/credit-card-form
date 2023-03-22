@@ -70,7 +70,7 @@ const CreaditCardDetails = () => {
                     helperText={(creditCardDetails.creditCardNumber === "") ||
                         validateCreditCardNumber(creditCardDetails.creditCardNumber) ?
                         "" :
-                        "Invalid Credit Card Number!"}
+                        "Invalid Credit Card Number! Please use the format: xxxx-xxxx-xxxx-xxxx"}
                     required />
             </Grid>
             <Grid item>
